@@ -109,13 +109,12 @@ const techploy = {
 
 </div>
 
-<!-- Enable the snake after you add the workflow (snake.yml) and run it once:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Techploy/Techploy/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
 
--->
+
 
 <br/>
 
