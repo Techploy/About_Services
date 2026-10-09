@@ -1,10 +1,10 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= HERO ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Techploy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ideas%20%7C%20Websites%20%7C%20Solutions&descSize=22&descAlignY=60" alt="Techploy header" width="100%"/>
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/banner.svg" alt="Techploy - Ideas | Websites | Solutions" width="100%"/>
 
 <a href="https://github.com/Techploy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=From+Idea+to+Website+%F0%9F%9A%80;Your+Ideas.+Our+Code.+%F0%9F%92%BB;Custom+Websites+%26+Business+Web+Pages+%F0%9F%8C%90;Portfolios+%26+Resumes+that+get+noticed+%E2%9C%A8;College+Projects+built+the+right+way+%F0%9F%8E%93" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=50&lines=From+Idea+to+Website+%F0%9F%9A%80;Your+Ideas.+Our+Code.+%F0%9F%92%BB;Custom+Websites+%26+Business+Web+Pages+%F0%9F%8C%90;Portfolios+%26+Resumes+that+get+noticed+%E2%9C%A8;College+Projects+built+the+right+way+%F0%9F%8E%93;Let's+turn+your+idea+into+reality+%F0%9F%94%A5" alt="Typing animation" />
 </a>
 
 <br/>
@@ -12,27 +12,36 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Techploy&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Techploy?style=for-the-badge&logo=github&color=3B82F6&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20PROJECTS-22C55E?style=for-the-badge&labelColor=0D1117)
+![Made with](https://img.shields.io/badge/MADE%20WITH-CODE%20%26%20COFFEE-EC4899?style=for-the-badge&labelColor=0D1117)
+
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
-
-<br/>
 
 <!-- ======================= ABOUT ======================= -->
 ## 👋 About Techploy
 
 > **We turn ideas into websites.** Techploy is a web and solutions studio that designs, builds and launches clean, fast, modern websites for students, individuals and businesses.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/terminal.svg" alt="Terminal animation describing Techploy" width="85%"/>
+</div>
+
+<br/>
+
 ```js
 const techploy = {
-  tagline:  "From Idea to Website",
-  mission:  "Bring your ideas to life with clean code and sharp design",
-  focus:    ["Custom Websites", "Business Web Pages", "Portfolios & Resumes", "College Projects"],
-  approach: ["Idea", "Design", "Develop", "Launch"],
+  tagline:    "From Idea to Website",
+  mission:    "Bring your ideas to life with clean code and sharp design",
+  focus:      ["Custom Websites", "Business Web Pages", "Portfolios & Resumes", "College Projects"],
+  approach:   ["Idea", "Design", "Develop", "Launch"],
   openToWork: true,
 };
 ```
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 <!-- ======================= SERVICES ======================= -->
 ## 🧩 What We Build
@@ -40,37 +49,48 @@ const techploy = {
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <h3>🎓</h3>
+      <h2>🎓</h2>
       <b>College Projects</b><br/>
       <sub>Complete, well-structured projects for students</sub>
     </td>
     <td align="center" width="20%">
-      <h3>💻</h3>
+      <h2>💻</h2>
       <b>Custom Websites</b><br/>
       <sub>Built from scratch around your idea</sub>
     </td>
     <td align="center" width="20%">
-      <h3>📄</h3>
+      <h2>📄</h2>
       <b>Portfolios & Resumes</b><br/>
       <sub>Stand out with a personal brand online</sub>
     </td>
     <td align="center" width="20%">
-      <h3>🏪</h3>
+      <h2>🏪</h2>
       <b>Business Web Pages</b><br/>
       <sub>Get your business online and discoverable</sub>
     </td>
     <td align="center" width="20%">
-      <h3>🧑‍💼</h3>
+      <h2>🧑‍💼</h2>
       <b>Individual Solutions</b><br/>
       <sub>Tailored tools for personal needs</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 <!-- ======================= PROCESS ======================= -->
 ## 🔄 How We Work
+
+```mermaid
+flowchart LR
+    A([💡 IDEA]) --> B([🎨 DESIGN]) --> C([⚙️ DEVELOP]) --> D([🚀 LAUNCH])
+    style A fill:#3B82F6,stroke:#ffffff,color:#ffffff
+    style B fill:#8B5CF6,stroke:#ffffff,color:#ffffff
+    style C fill:#A855F7,stroke:#ffffff,color:#ffffff
+    style D fill:#EC4899,stroke:#ffffff,color:#ffffff
+```
 
 <div align="center">
 
@@ -78,9 +98,9 @@ const techploy = {
 |:---:|:---:|:---:|:---:|
 | Share what you want to build | We shape the look, flow and structure | Clean, responsive, fast code | Go live and get support after |
 
-</div>
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
 <!-- ======================= TECH STACK ======================= -->
 ## 🛠️ Tech Stack
@@ -91,9 +111,11 @@ const techploy = {
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,docker,git,github,figma,vscode&theme=dark" alt="Databases and tools" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
+
+</div>
 
 <!-- ======================= STATS ======================= -->
 ## 📊 GitHub Stats
@@ -107,21 +129,24 @@ const techploy = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techploy&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9" alt="Streak stats" />
 
-</div>
+<br/>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Techploy/About_Services/output/github-snake-dark.svg" alt="Contribution snake" />
-</div>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techploy&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&custom_title=Techploy%20Activity%20Graph" alt="Activity graph" width="95%" />
 
 <br/>
 
-<!-- ======================= QUOTE ======================= -->
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/output/github-snake-dark.svg" alt="Contribution snake" width="95%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Techploy/About_Services/main/assets/divider.svg" width="100%" alt=""/>
+
+</div>
+
+<!-- ======================= QUOTES ======================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=3B82F6&center=true&vCenter=true&width=650&lines=%22Good+software+starts+with+a+good+idea.%22;%22Ship+early.+Improve+always.%22;%22Design+is+how+it+works%2C+not+just+how+it+looks.%22" alt="Quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=60A5FA&center=true&vCenter=true&width=700&lines=%22Good+software+starts+with+a+good+idea.%22;%22Ship+early.+Improve+always.%22;%22Design+is+how+it+works%2C+not+just+how+it+looks.%22;%22Dream+it.+Design+it.+Deploy+it.%22" alt="Quotes" />
 
 </div>
 
@@ -147,9 +172,9 @@ const techploy = {
 
 <br/><br/>
 
-⭐ *Got an idea? Message us and let's turn it into a website.* ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=EC4899&center=true&vCenter=true&width=620&lines=Got+an+idea%3F+Message+us+%F0%9F%92%AC;We'll+turn+it+into+a+website+%F0%9F%9A%80" alt="Call to action" />
 
 </div>
 
 <!-- ======================= FOOTER ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="Footer" width="100%"/>
