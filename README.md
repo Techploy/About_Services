@@ -164,11 +164,11 @@ flowchart LR
   <img src="https://img.shields.io/badge/GitHub-Techploy-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
-<!-- Add your own links below and remove the comment markers:
+
 <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/your-id"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
--->
+
 
 <br/><br/>
 
