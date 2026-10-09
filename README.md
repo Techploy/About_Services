@@ -111,7 +111,7 @@ const techploy = {
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Techploy/Techploy/output/github-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Techploy/About_Services/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 
